@@ -1,0 +1,141 @@
+name,player_id,affiliate,level,pos,atBats,hits,doubles,triples,homeRuns,baseOnBalls,strikeOuts
+Eliezer Alfonzo,672613,Durham Bulls,AAA,C,454.0,112.0,28.0,0.0,2.0,32.0,64.0
+Max Anderson,801194,Durham Bulls,AAA,2B,1008.0,298.0,62.0,4.0,38.0,72.0,174.0
+Akil Baddoo,668731,Durham Bulls,AAA,LF,816.0,228.0,42.0,12.0,32.0,140.0,234.0
+Justice Bigbie,694425,Durham Bulls,AAA,RF,806.0,228.0,32.0,0.0,26.0,94.0,138.0
+Kerry Carpenter,681481,Durham Bulls,AAA,RF,15.0,2.0,0.0,0.0,1.0,1.0,4.0
+Trei Cruz,669360,Durham Bulls,AAA,CF,904.0,252.0,66.0,8.0,26.0,204.0,242.0
+Jack Dunn,686639,Durham Bulls,AAA,3B,50.0,9.0,0.0,1.0,0.0,7.0,19.0
+Ben Gamel,592325,Durham Bulls,AAA,RF,520.0,145.0,41.0,3.0,28.0,98.0,167.0
+David Hensley,682073,Durham Bulls,AAA,OF,47.0,4.0,1.0,0.0,1.0,9.0,26.0
+Brewer Hicklen,676551,Durham Bulls,AAA,RF,1015.0,225.0,30.0,6.0,48.0,122.0,363.0
+Andy Ibáñez,628451,Durham Bulls,AAA,3B,139.0,36.0,9.0,1.0,2.0,18.0,30.0
+Andrew Jenkins,687543,Durham Bulls,AAA,1B,708.0,186.0,34.0,6.0,20.0,66.0,190.0
+Jahmai Jones,663330,Durham Bulls,AAA,CF,170.0,47.0,9.0,4.0,6.0,24.0,46.0
+Jace Jung,690291,Durham Bulls,AAA,3B,412.0,104.0,27.0,1.0,17.0,78.0,125.0
+Ryan Kreidler,668952,Durham Bulls,AAA,CF,996.0,237.0,81.0,12.0,15.0,174.0,327.0
+Hao-Yu  Lee,701678,Durham Bulls,AAA,2B,497.0,121.0,23.0,8.0,14.0,65.0,121.0
+Bligh Madris,676632,Durham Bulls,AAA,1B,420.0,100.0,20.0,2.0,16.0,58.0,114.0
+Justyn-Henry Malloy,669234,Durham Bulls,AAA,RF,261.0,84.0,20.0,0.0,9.0,57.0,67.0
+Manuel Margot,622534,Durham Bulls,AAA,RF,128.0,27.0,2.0,1.0,1.0,12.0,27.0
+Parker Meadows,678009,Durham Bulls,AAA,CF,100.0,26.0,6.0,6.0,2.0,22.0,40.0
+Carlos Mendoza,685332,Durham Bulls,AAA,3B,670.0,192.0,32.0,4.0,14.0,106.0,90.0
+Austin Murr,689456,Durham Bulls,AAA,LF,562.0,154.0,32.0,8.0,16.0,86.0,144.0
+Andrew Navigato,685382,Durham Bulls,AAA,SS,335.0,70.0,16.0,2.0,11.0,28.0,116.0
+Kevin Newman,621028,Durham Bulls,AAA,3B,54.0,16.0,4.0,0.0,0.0,7.0,10.0
+Tomás Nido,621512,Durham Bulls,AAA,C,172.0,36.0,6.0,0.0,5.0,11.0,46.0
+Wenceel Pérez,672761,Durham Bulls,AAA,RF,36.0,8.0,2.0,0.0,2.0,2.0,8.0
+Jake Rogers,668670,Durham Bulls,AAA,C,15.0,5.0,3.0,0.0,0.0,3.0,3.0
+Stephen Scott,679663,Durham Bulls,AAA,C,58.0,8.0,0.0,1.0,1.0,4.0,19.0
+Brian Serven,661531,Durham Bulls,AAA,C,442.0,102.0,20.0,0.0,6.0,62.0,140.0
+Dylan Smith,681916,Durham Bulls,AAA,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trey Sweeney,700242,Durham Bulls,AAA,SS,43.0,14.0,2.0,0.0,2.0,7.0,11.0
+Riley Unroe,624523,Durham Bulls,AAA,2B,198.0,55.0,12.0,1.0,4.0,39.0,48.0
+Eduardo Valencia,680664,Durham Bulls,AAA,C,758.0,236.0,36.0,4.0,48.0,86.0,172.0
+Matt Vierling,663837,Durham Bulls,AAA,CF,132.0,26.0,4.0,0.0,4.0,20.0,50.0
+Gage Workman,669398,Durham Bulls,AAA,3B,927.0,213.0,57.0,18.0,45.0,132.0,411.0
+Eliezer Alfonzo,672613,Montgomery Biscuits,AA,C,454.0,112.0,28.0,0.0,2.0,32.0,64.0
+Max Anderson,801194,Montgomery Biscuits,AA,2B,1008.0,298.0,62.0,4.0,38.0,72.0,174.0
+Akil Baddoo,668731,Montgomery Biscuits,AA,LF,816.0,228.0,42.0,12.0,32.0,140.0,234.0
+Justice Bigbie,694425,Montgomery Biscuits,AA,RF,806.0,228.0,32.0,0.0,26.0,94.0,138.0
+Kerry Carpenter,681481,Montgomery Biscuits,AA,RF,15.0,2.0,0.0,0.0,1.0,1.0,4.0
+Trei Cruz,669360,Montgomery Biscuits,AA,CF,904.0,252.0,66.0,8.0,26.0,204.0,242.0
+Jack Dunn,686639,Montgomery Biscuits,AA,3B,50.0,9.0,0.0,1.0,0.0,7.0,19.0
+Ben Gamel,592325,Montgomery Biscuits,AA,RF,520.0,145.0,41.0,3.0,28.0,98.0,167.0
+David Hensley,682073,Montgomery Biscuits,AA,OF,47.0,4.0,1.0,0.0,1.0,9.0,26.0
+Brewer Hicklen,676551,Montgomery Biscuits,AA,RF,1015.0,225.0,30.0,6.0,48.0,122.0,363.0
+Andy Ibáñez,628451,Montgomery Biscuits,AA,3B,139.0,36.0,9.0,1.0,2.0,18.0,30.0
+Andrew Jenkins,687543,Montgomery Biscuits,AA,1B,708.0,186.0,34.0,6.0,20.0,66.0,190.0
+Jahmai Jones,663330,Montgomery Biscuits,AA,CF,170.0,47.0,9.0,4.0,6.0,24.0,46.0
+Jace Jung,690291,Montgomery Biscuits,AA,3B,412.0,104.0,27.0,1.0,17.0,78.0,125.0
+Ryan Kreidler,668952,Montgomery Biscuits,AA,CF,996.0,237.0,81.0,12.0,15.0,174.0,327.0
+Hao-Yu  Lee,701678,Montgomery Biscuits,AA,2B,497.0,121.0,23.0,8.0,14.0,65.0,121.0
+Bligh Madris,676632,Montgomery Biscuits,AA,1B,420.0,100.0,20.0,2.0,16.0,58.0,114.0
+Justyn-Henry Malloy,669234,Montgomery Biscuits,AA,RF,261.0,84.0,20.0,0.0,9.0,57.0,67.0
+Manuel Margot,622534,Montgomery Biscuits,AA,RF,128.0,27.0,2.0,1.0,1.0,12.0,27.0
+Parker Meadows,678009,Montgomery Biscuits,AA,CF,100.0,26.0,6.0,6.0,2.0,22.0,40.0
+Carlos Mendoza,685332,Montgomery Biscuits,AA,3B,670.0,192.0,32.0,4.0,14.0,106.0,90.0
+Austin Murr,689456,Montgomery Biscuits,AA,LF,562.0,154.0,32.0,8.0,16.0,86.0,144.0
+Andrew Navigato,685382,Montgomery Biscuits,AA,SS,335.0,70.0,16.0,2.0,11.0,28.0,116.0
+Kevin Newman,621028,Montgomery Biscuits,AA,3B,54.0,16.0,4.0,0.0,0.0,7.0,10.0
+Tomás Nido,621512,Montgomery Biscuits,AA,C,172.0,36.0,6.0,0.0,5.0,11.0,46.0
+Wenceel Pérez,672761,Montgomery Biscuits,AA,RF,36.0,8.0,2.0,0.0,2.0,2.0,8.0
+Jake Rogers,668670,Montgomery Biscuits,AA,C,15.0,5.0,3.0,0.0,0.0,3.0,3.0
+Stephen Scott,679663,Montgomery Biscuits,AA,C,58.0,8.0,0.0,1.0,1.0,4.0,19.0
+Brian Serven,661531,Montgomery Biscuits,AA,C,442.0,102.0,20.0,0.0,6.0,62.0,140.0
+Dylan Smith,681916,Montgomery Biscuits,AA,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trey Sweeney,700242,Montgomery Biscuits,AA,SS,43.0,14.0,2.0,0.0,2.0,7.0,11.0
+Riley Unroe,624523,Montgomery Biscuits,AA,2B,198.0,55.0,12.0,1.0,4.0,39.0,48.0
+Eduardo Valencia,680664,Montgomery Biscuits,AA,C,758.0,236.0,36.0,4.0,48.0,86.0,172.0
+Matt Vierling,663837,Montgomery Biscuits,AA,CF,132.0,26.0,4.0,0.0,4.0,20.0,50.0
+Gage Workman,669398,Montgomery Biscuits,AA,3B,927.0,213.0,57.0,18.0,45.0,132.0,411.0
+Eliezer Alfonzo,672613,Bowling Green Hot Rods,A+,C,454.0,112.0,28.0,0.0,2.0,32.0,64.0
+Max Anderson,801194,Bowling Green Hot Rods,A+,2B,1008.0,298.0,62.0,4.0,38.0,72.0,174.0
+Akil Baddoo,668731,Bowling Green Hot Rods,A+,LF,816.0,228.0,42.0,12.0,32.0,140.0,234.0
+Justice Bigbie,694425,Bowling Green Hot Rods,A+,RF,806.0,228.0,32.0,0.0,26.0,94.0,138.0
+Kerry Carpenter,681481,Bowling Green Hot Rods,A+,RF,15.0,2.0,0.0,0.0,1.0,1.0,4.0
+Trei Cruz,669360,Bowling Green Hot Rods,A+,CF,904.0,252.0,66.0,8.0,26.0,204.0,242.0
+Jack Dunn,686639,Bowling Green Hot Rods,A+,3B,50.0,9.0,0.0,1.0,0.0,7.0,19.0
+Ben Gamel,592325,Bowling Green Hot Rods,A+,RF,520.0,145.0,41.0,3.0,28.0,98.0,167.0
+David Hensley,682073,Bowling Green Hot Rods,A+,OF,47.0,4.0,1.0,0.0,1.0,9.0,26.0
+Brewer Hicklen,676551,Bowling Green Hot Rods,A+,RF,1015.0,225.0,30.0,6.0,48.0,122.0,363.0
+Andy Ibáñez,628451,Bowling Green Hot Rods,A+,3B,139.0,36.0,9.0,1.0,2.0,18.0,30.0
+Andrew Jenkins,687543,Bowling Green Hot Rods,A+,1B,708.0,186.0,34.0,6.0,20.0,66.0,190.0
+Jahmai Jones,663330,Bowling Green Hot Rods,A+,CF,170.0,47.0,9.0,4.0,6.0,24.0,46.0
+Jace Jung,690291,Bowling Green Hot Rods,A+,3B,412.0,104.0,27.0,1.0,17.0,78.0,125.0
+Ryan Kreidler,668952,Bowling Green Hot Rods,A+,CF,996.0,237.0,81.0,12.0,15.0,174.0,327.0
+Hao-Yu  Lee,701678,Bowling Green Hot Rods,A+,2B,497.0,121.0,23.0,8.0,14.0,65.0,121.0
+Bligh Madris,676632,Bowling Green Hot Rods,A+,1B,420.0,100.0,20.0,2.0,16.0,58.0,114.0
+Justyn-Henry Malloy,669234,Bowling Green Hot Rods,A+,RF,261.0,84.0,20.0,0.0,9.0,57.0,67.0
+Manuel Margot,622534,Bowling Green Hot Rods,A+,RF,128.0,27.0,2.0,1.0,1.0,12.0,27.0
+Parker Meadows,678009,Bowling Green Hot Rods,A+,CF,100.0,26.0,6.0,6.0,2.0,22.0,40.0
+Carlos Mendoza,685332,Bowling Green Hot Rods,A+,3B,670.0,192.0,32.0,4.0,14.0,106.0,90.0
+Austin Murr,689456,Bowling Green Hot Rods,A+,LF,562.0,154.0,32.0,8.0,16.0,86.0,144.0
+Andrew Navigato,685382,Bowling Green Hot Rods,A+,SS,335.0,70.0,16.0,2.0,11.0,28.0,116.0
+Kevin Newman,621028,Bowling Green Hot Rods,A+,3B,54.0,16.0,4.0,0.0,0.0,7.0,10.0
+Tomás Nido,621512,Bowling Green Hot Rods,A+,C,172.0,36.0,6.0,0.0,5.0,11.0,46.0
+Wenceel Pérez,672761,Bowling Green Hot Rods,A+,RF,36.0,8.0,2.0,0.0,2.0,2.0,8.0
+Jake Rogers,668670,Bowling Green Hot Rods,A+,C,15.0,5.0,3.0,0.0,0.0,3.0,3.0
+Stephen Scott,679663,Bowling Green Hot Rods,A+,C,58.0,8.0,0.0,1.0,1.0,4.0,19.0
+Brian Serven,661531,Bowling Green Hot Rods,A+,C,442.0,102.0,20.0,0.0,6.0,62.0,140.0
+Dylan Smith,681916,Bowling Green Hot Rods,A+,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trey Sweeney,700242,Bowling Green Hot Rods,A+,SS,43.0,14.0,2.0,0.0,2.0,7.0,11.0
+Riley Unroe,624523,Bowling Green Hot Rods,A+,2B,198.0,55.0,12.0,1.0,4.0,39.0,48.0
+Eduardo Valencia,680664,Bowling Green Hot Rods,A+,C,758.0,236.0,36.0,4.0,48.0,86.0,172.0
+Matt Vierling,663837,Bowling Green Hot Rods,A+,CF,132.0,26.0,4.0,0.0,4.0,20.0,50.0
+Gage Workman,669398,Bowling Green Hot Rods,A+,3B,927.0,213.0,57.0,18.0,45.0,132.0,411.0
+Eliezer Alfonzo,672613,Charleston RiverDogs,A,C,454.0,112.0,28.0,0.0,2.0,32.0,64.0
+Max Anderson,801194,Charleston RiverDogs,A,2B,1008.0,298.0,62.0,4.0,38.0,72.0,174.0
+Akil Baddoo,668731,Charleston RiverDogs,A,LF,816.0,228.0,42.0,12.0,32.0,140.0,234.0
+Justice Bigbie,694425,Charleston RiverDogs,A,RF,806.0,228.0,32.0,0.0,26.0,94.0,138.0
+Kerry Carpenter,681481,Charleston RiverDogs,A,RF,15.0,2.0,0.0,0.0,1.0,1.0,4.0
+Trei Cruz,669360,Charleston RiverDogs,A,CF,904.0,252.0,66.0,8.0,26.0,204.0,242.0
+Jack Dunn,686639,Charleston RiverDogs,A,3B,50.0,9.0,0.0,1.0,0.0,7.0,19.0
+Ben Gamel,592325,Charleston RiverDogs,A,RF,520.0,145.0,41.0,3.0,28.0,98.0,167.0
+David Hensley,682073,Charleston RiverDogs,A,OF,47.0,4.0,1.0,0.0,1.0,9.0,26.0
+Brewer Hicklen,676551,Charleston RiverDogs,A,RF,1015.0,225.0,30.0,6.0,48.0,122.0,363.0
+Andy Ibáñez,628451,Charleston RiverDogs,A,3B,139.0,36.0,9.0,1.0,2.0,18.0,30.0
+Andrew Jenkins,687543,Charleston RiverDogs,A,1B,708.0,186.0,34.0,6.0,20.0,66.0,190.0
+Jahmai Jones,663330,Charleston RiverDogs,A,CF,170.0,47.0,9.0,4.0,6.0,24.0,46.0
+Jace Jung,690291,Charleston RiverDogs,A,3B,412.0,104.0,27.0,1.0,17.0,78.0,125.0
+Ryan Kreidler,668952,Charleston RiverDogs,A,CF,996.0,237.0,81.0,12.0,15.0,174.0,327.0
+Hao-Yu  Lee,701678,Charleston RiverDogs,A,2B,497.0,121.0,23.0,8.0,14.0,65.0,121.0
+Bligh Madris,676632,Charleston RiverDogs,A,1B,420.0,100.0,20.0,2.0,16.0,58.0,114.0
+Justyn-Henry Malloy,669234,Charleston RiverDogs,A,RF,261.0,84.0,20.0,0.0,9.0,57.0,67.0
+Manuel Margot,622534,Charleston RiverDogs,A,RF,128.0,27.0,2.0,1.0,1.0,12.0,27.0
+Parker Meadows,678009,Charleston RiverDogs,A,CF,100.0,26.0,6.0,6.0,2.0,22.0,40.0
+Carlos Mendoza,685332,Charleston RiverDogs,A,3B,670.0,192.0,32.0,4.0,14.0,106.0,90.0
+Austin Murr,689456,Charleston RiverDogs,A,LF,562.0,154.0,32.0,8.0,16.0,86.0,144.0
+Andrew Navigato,685382,Charleston RiverDogs,A,SS,335.0,70.0,16.0,2.0,11.0,28.0,116.0
+Kevin Newman,621028,Charleston RiverDogs,A,3B,54.0,16.0,4.0,0.0,0.0,7.0,10.0
+Tomás Nido,621512,Charleston RiverDogs,A,C,172.0,36.0,6.0,0.0,5.0,11.0,46.0
+Wenceel Pérez,672761,Charleston RiverDogs,A,RF,36.0,8.0,2.0,0.0,2.0,2.0,8.0
+Jake Rogers,668670,Charleston RiverDogs,A,C,15.0,5.0,3.0,0.0,0.0,3.0,3.0
+Stephen Scott,679663,Charleston RiverDogs,A,C,58.0,8.0,0.0,1.0,1.0,4.0,19.0
+Brian Serven,661531,Charleston RiverDogs,A,C,442.0,102.0,20.0,0.0,6.0,62.0,140.0
+Dylan Smith,681916,Charleston RiverDogs,A,P,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trey Sweeney,700242,Charleston RiverDogs,A,SS,43.0,14.0,2.0,0.0,2.0,7.0,11.0
+Riley Unroe,624523,Charleston RiverDogs,A,2B,198.0,55.0,12.0,1.0,4.0,39.0,48.0
+Eduardo Valencia,680664,Charleston RiverDogs,A,C,758.0,236.0,36.0,4.0,48.0,86.0,172.0
+Matt Vierling,663837,Charleston RiverDogs,A,CF,132.0,26.0,4.0,0.0,4.0,20.0,50.0
+Gage Workman,669398,Charleston RiverDogs,A,3B,927.0,213.0,57.0,18.0,45.0,132.0,411.0
